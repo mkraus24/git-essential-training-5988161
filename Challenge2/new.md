@@ -1,3 +1,1 @@
 New line.
-
-Next line.
